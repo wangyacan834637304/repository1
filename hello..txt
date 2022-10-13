@@ -1,3 +1,7 @@
 hello Git
 hello abc.txt
+<<<<<<< HEAD
 hello abc.txt I like heima.
+=======
+hello abc.txt I like heima
+>>>>>>> bca2798c1be28504fbdea3d43dd2e754df5e16be
